@@ -1,0 +1,14 @@
+*.exe 
+"VA estrutura de dados.exe" 
+*.o 
+*.obj 
+*.out 
+*.pdb 
+*.dll 
+/build/ 
+bin/ 
+obj/ 
+*.tmp 
+*.log 
+Thumbs.db 
+desktop.ini 
