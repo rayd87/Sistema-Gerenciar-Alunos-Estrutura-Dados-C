@@ -1,7 +1,3 @@
-# Sistema-Media-Alunos-Estrutura-Dados-C
-
-
-
 # Sistema de Gerenciamento de Alunos em C (com Lista Ligada)
 
 [cite_start]Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**  do curso de Bacharelado em Sistemas de Informação (BSI - UFRPE).
