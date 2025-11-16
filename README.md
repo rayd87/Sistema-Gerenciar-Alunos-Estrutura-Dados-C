@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Alunos em C (com Lista Ligada)
 
-[cite_start]Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**  do curso de Bacharelado em Sistemas de Informação (BSI - UFRPE).
+Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**  do curso de Bacharelado em Sistemas de Informação (BSI - UFRPE).
 
 Este projeto é um sistema de console completo que implementa um **CRUD (Create, Read, Update, Delete)** para gerenciar alunos, aplicando conceitos fundamentais de alocação dinâmica e listas ligadas em Linguagem C.
 
@@ -32,7 +32,7 @@ Este projeto foi construído 100% em C e foca nos seguintes conceitos-chave de c
 ## 🔧 Como Executar
 
 1.  Clone este repositório:
-    `git clone []`
+    `git clone [https://github.com/rayd87/Sistema-Gerenciar-Alunos-Estrutura-Dados-C]`
 
 2.  Navegue até a pasta do projeto e compile o arquivo:
     `gcc "VA estrutura de dados.c" -o sistema_alunos`
